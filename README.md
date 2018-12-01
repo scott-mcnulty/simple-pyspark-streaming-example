@@ -1,4 +1,4 @@
-# Streaming POC
+# Simple Pyspark Streaming Example
 
 Simple app to test out spark streaming from Kafka.
 
@@ -8,7 +8,7 @@ It's assumed that both `docker` and `docker-compose` are already installed on yo
 
 ## Table of Contents
 
-- [Streaming POC](#streaming-poc)
+- [Simple Pyspark Streaming Example](#simple-pyspark-streaming-example)
     - [Table of Contents](#table-of-contents)
     - [Links](#links)
     - [Playbook](#playbook)
