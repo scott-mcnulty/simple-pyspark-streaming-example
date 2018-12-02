@@ -32,7 +32,7 @@ It's assumed that both `docker` and `docker-compose` are already installed on yo
 After cloning this repo clone the repo below to get some Kafka docker-compose files:
 
 ```sh
-cd streaming-poc;
+cd simple-pyspark-streaming-example;
 git clone https://github.com/wurstmeister/kafka-docker.git
 ```
 
