@@ -68,22 +68,22 @@ kafkacat -b localhost:9092 -P -t test
 
 Type a message into the terminal and press enter to see the message consumed by the kafkacat consumer client.
 
-[to top](#streaming-poc)
+[to top](#simple-pyspark-streaming-example)
 
 ### Multi Node Kafka Cluster
 
 TODO
 
-[to top](#streaming-poc)
+[to top](#simple-pyspark-streaming-example)
 
 ### Words Producer and Consumer
 
 [Link to readme](words-producer-and-consumer-apps/README.md)
 
-[to top](#streaming-poc)
+[to top](#simple-pyspark-streaming-example)
 
 ### Spark Streaming Application
 
 [Link to readme](streaming-app/README.md)
 
-[to top](#streaming-poc)
+[to top](#simple-pyspark-streaming-example)
