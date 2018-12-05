@@ -2,9 +2,12 @@
 
 Simple app to test out spark streaming from Kafka.
 
-First things first, set up a way to produce and consume from Kafka. Kafka setup using docker is outlined below with much of the setup credit going to @wurstmeister for his help at his [repo](https://github.com/wurstmeister/kafka-docker).
-
 It's assumed that both `docker` and `docker-compose` are already installed on your machine to run this poc. `Java`, `python3`, `Spark`, and `kafkacat` (optional but recommended) will also be used. Anything that needs to be installed is most likely going to be easiest when using Homebrew (such as kafkacat)
+
+## Credits
+
+[Jake Mason](https://github.com/jake-mason): Creating the model code.  
+[wurstmeister](https://github.com/wurstmeister): For his Kafka Docker setup at his [repo](https://github.com/wurstmeister/kafka-docker).
 
 ## Table of Contents
 
