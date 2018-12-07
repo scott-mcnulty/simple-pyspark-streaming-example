@@ -6,7 +6,7 @@ It's assumed that both `docker` and `docker-compose` are already installed on yo
 
 ## Credits
 
-[Jake Mason](https://github.com/jake-mason): Creating the [model code](https://github.com/jake-mason/model-api/tree/master/model).  
+[Jake Mason](https://github.com/jake-mason): Creating the [model code](https://github.com/jake-mason/model-api.git).  
 [wurstmeister](https://github.com/wurstmeister): For his Kafka Docker setup at his [repo](https://github.com/wurstmeister/kafka-docker).
 
 ## Table of Contents
